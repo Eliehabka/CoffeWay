@@ -438,7 +438,7 @@
 
 <script>
 // ── CONFIG ──────────────────────────────────────────────────────────────────
-const SHEET_URL = 'https://script.google.com/macros/s/AKfycbxsQpJbRubwJ6YWmbtE3JgqZGuiEoMzkj6vR1fSxWugsOM0A-KYXK4AHFmksqo9m9fv-w/exec';
+const SHEET_URL = 'https://script.google.com/macros/s/AKfycbzhI5Dw8Ogw40Dh5bGq2LX56l-uBiKQOnv4aqMEpDdNz3JIrNjsYvMYZT4vGaXyebP1_A/exec';
 
 const CAT_META = {
     'hot beverages':  { label: 'Hot Beverages',         emoji: '☕' },
@@ -700,8 +700,8 @@ function setupScrollSpy() {
 // ── FETCH & INIT ──────────────────────────────────────────────────────────────
 async function loadMenu() {
     try {
-        const res = await fetch(SHEET_URL);
-        if (!res.ok) throw new Error('fetch failed');
+        const res = await fetch(SHEET_URL, { method: 'GET', mode: 'cors' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
         const rows = await res.json();
         // Normalize keys: lowercase, trim, underscores
         const normalized = rows.map(row => {
@@ -712,11 +712,13 @@ async function loadMenu() {
             });
             return obj;
         }).filter(r => r.name && r.name.trim());
+        if (normalized.length === 0) throw new Error('No data returned');
         ALL_DATA = groupData(normalized);
         buildMenu(ALL_DATA);
         document.getElementById('loading').style.display = 'none';
     } catch (e) {
         document.getElementById('loading').style.display = 'none';
+        document.getElementById('error-msg').innerHTML = `<h3>⚠️ Could not load menu</h3><p style="margin-top:0.5rem;font-size:0.8rem">${e.message}</p>`;
         document.getElementById('error-msg').style.display = 'block';
         console.error(e);
     }
