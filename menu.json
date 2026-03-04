@@ -928,6 +928,14 @@
     "available": "TRUE"
   },
   {
+    "name": "nescaffe 2in1",
+    "category": "hot beverages",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
     "name": "nescaffe",
     "category": "hot beverages",
     "subcategory": "",
