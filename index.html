@@ -348,6 +348,38 @@
             padding: 0.5rem 0 0.2rem;
         }
 
+        /* ── SUBCATEGORY BLOCK HEADER ── */
+        .sub-block { margin-bottom: 0.25rem; }
+        .sub-block-header {
+            display: flex; align-items: center; gap: 0.5rem;
+            padding: 0.9rem 1rem 0.5rem;
+            border-left: 3px solid var(--terra);
+            margin: 0.5rem 1rem 0.4rem;
+            border-radius: 0 4px 4px 0;
+        }
+        .sub-block-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem; font-weight: 700;
+            color: var(--deep-brown);
+            flex: 1;
+        }
+
+        /* ── SUBCATEGORY ACTIVE LABEL ── */
+        .sub-active-label {
+            display: flex; align-items: center; gap: 0.4rem;
+            margin: 0 1rem 0.6rem;
+            padding: 0.45rem 0.9rem;
+            background: rgba(193,124,90,0.12);
+            border-left: 3px solid var(--terra);
+            border-radius: 0 8px 8px 0;
+            font-size: 0.8rem; font-weight: 600;
+            color: var(--terra);
+            letter-spacing: 0.2px;
+        }
+        .sub-active-label-prefix {
+            color: var(--warm-brown); font-weight: 400; font-size: 0.75rem;
+        }
+
         /* Pulse animation for new content */
         @keyframes fadeUp {
             from { opacity: 0; transform: translateY(10px); }
@@ -388,7 +420,7 @@
             </div>
             <h1 class="logo">Coffee<span>Way</span></h1>
         </div>
-        <span class="item-total-badge" id="total-badge">— items</span>
+        
     </div>
 </header>
 
@@ -485,7 +517,7 @@ function slugify(s) {
 function itemHTML(item, delay = 0) {
     const desc = item.description ? `<div class="item-desc">${item.description}</div>` : '';
     const unavail = item.available ? '' : ' unavailable';
-    const price = item.price ? `<span class="item-price-tag">${item.price} LL</span>` : '';
+    const price = item.price ? `<span class="item-price-tag">${(parseFloat(item.price) * 1000).toLocaleString()} LL</span>` : '';
     return `
         <div class="menu-item${unavail}" style="animation-delay:${delay}ms">
             <div class="item-info">
@@ -528,18 +560,23 @@ function buildMenu(cats) {
             subPillsHTML = `<div class="sub-pills" id="pills-${sl}">
                 ${subKeys.map((sk, i) => {
                     const label = SUB_LABELS[sk] || toTitle(sk);
-                    return `<button class="sub-pill${i===0?' active':''}" onclick="switchPill('${sl}','${slugify(sl+'-'+sk)}')">${label}</button>`;
+                    return `<button class="sub-pill${i===0?' active':''}" onclick="scrollToSub('${slugify(sl+'-'+sk)}', this, '${sl}')">${label}</button>`;
                 }).join('')}
             </div>`;
 
             subPanelsHTML = subKeys.map((sk, si) => {
                 const items = allSubs[sk];
+                const label = SUB_LABELS[sk] || toTitle(sk);
                 const preview = items.slice(0, PREVIEW);
                 const rest = items.slice(PREVIEW);
                 const panelSl = slugify(sl+'-'+sk);
                 return `
-                    <div class="sub-panel${si===0?' active':''}" id="${panelSl}">
-                        <div class="items-list" id="list-${panelSl}">
+                    <div class="sub-block" id="${panelSl}" data-cat="${sl}">
+                        <div class="sub-block-header">
+                            <span class="sub-block-title">${label}</span>
+                            <span class="cat-badge">${items.length}</span>
+                        </div>
+                        <div class="items-list">
                             ${preview.map((it,i) => itemHTML(it, i*30)).join('')}
                         </div>
                         ${rest.length > 0 ? `
@@ -616,12 +653,18 @@ function closeSidebar() {
     document.body.style.overflow = '';
 }
 
-function switchPill(catSl, subSl) {
+function scrollToSub(subSl, btn, catSl) {
+    // Update active pill
     const section = document.getElementById('section-' + catSl);
     section.querySelectorAll('.sub-pill').forEach(p => p.classList.remove('active'));
-    section.querySelectorAll('.sub-panel').forEach(p => p.classList.remove('active'));
-    event.target.classList.add('active');
-    document.getElementById(subSl).classList.add('active');
+    btn.classList.add('active');
+
+    // Scroll to the sub-block
+    const block = document.getElementById(subSl);
+    if (!block) return;
+    const offset = document.querySelector('.app-header').offsetHeight + 8;
+    const top = block.getBoundingClientRect().top + window.scrollY - offset;
+    window.scrollTo({ top, behavior: 'smooth' });
 }
 
 function toggleMore(id, btn) {
