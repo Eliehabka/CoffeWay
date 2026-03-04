@@ -1,0 +1,2450 @@
+[
+  {
+    "name": "buzz orange",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5.5% 275ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "smirnoff ice",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4% 275ml",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz lemon",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5.5% 275ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz extra strong",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "10% 275ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz cranbery",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5.5% 275ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz pineapple",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5.5% 275ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz ultimate cranberry",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "25% 275ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz extra strong plus",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "10% 275ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz peach",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "275ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz blue hawai",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5.5% 275ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz vodak mix can",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "10% 250ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz cranbey vodka mix can",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "10% 250ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz orange vodka mix can",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "10% 250ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz mega strong plus can",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "20% 250ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "961 beer red ale",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 330ml",
+    "price": "180",
+    "available": "TRUE"
+  },
+  {
+    "name": "961 beer lager",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 330ml",
+    "price": "180",
+    "available": "TRUE"
+  },
+  {
+    "name": "961 beer lebanese pale ale",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 330ml",
+    "price": "180",
+    "available": "TRUE"
+  },
+  {
+    "name": "american ipa",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 330ml",
+    "price": "180",
+    "available": "TRUE"
+  },
+  {
+    "name": "almaza",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4% 330ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "stella artois",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4.6% 330ml",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "heineken",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 330ml",
+    "price": "180",
+    "available": "TRUE"
+  },
+  {
+    "name": "budweiser",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 330ml",
+    "price": "180",
+    "available": "TRUE"
+  },
+  {
+    "name": "almaza rose",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "2.7% 250ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "corona",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 330ml",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "beirut beer light",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "3% 250ml",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "beirut beer",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4% 250ml",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "almaza",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4% 250ml",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "almaza",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4% 330 ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "almaza dark",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "6% 330 ml",
+    "price": "130",
+    "available": "TRUE"
+  },
+  {
+    "name": "almaza can",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4% 330ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "almaza light",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "2.7% 330ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "guinness",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4% 440ml",
+    "price": "400",
+    "available": "TRUE"
+  },
+  {
+    "name": "rex",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "8% 500ml",
+    "price": "110",
+    "available": "TRUE"
+  },
+  {
+    "name": "effes",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "9% 500ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "tonic water",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "330ml",
+    "price": "75",
+    "available": "TRUE"
+  },
+  {
+    "name": "beirut beer",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 250ml",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "keo",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4.5% 500ml",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "almaza can",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4.5% 500ml",
+    "price": "140",
+    "available": "TRUE"
+  },
+  {
+    "name": "buzz beer",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "10% 500ml",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "weidmann",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "4.5% 500ml",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "heineken",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 500ml",
+    "price": "220",
+    "available": "TRUE"
+  },
+  {
+    "name": "weidmen",
+    "category": "alcohol",
+    "subcategory": "beer",
+    "description": "5% 330ml",
+    "price": "180",
+    "available": "TRUE"
+  },
+  {
+    "name": "doudou",
+    "category": "alcohol",
+    "subcategory": "shots",
+    "description": "40% 30ml",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "sambuca",
+    "category": "alcohol",
+    "subcategory": "shots",
+    "description": "40% 30ml",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "tequila",
+    "category": "alcohol",
+    "subcategory": "shots",
+    "description": "40% 30ml",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "herbal master",
+    "category": "alcohol",
+    "subcategory": "shots",
+    "description": "40% 30ml",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "bubble",
+    "category": "alcohol",
+    "subcategory": "shots",
+    "description": "20% 30ml",
+    "price": "150",
+    "available": "TRUE"
+  },
+  {
+    "name": "strawberry",
+    "category": "alcohol",
+    "subcategory": "shots",
+    "description": "17% 30ml",
+    "price": "150",
+    "available": "TRUE"
+  },
+  {
+    "name": "pina colada",
+    "category": "alcohol",
+    "subcategory": "shots",
+    "description": "17% 30ml",
+    "price": "150",
+    "available": "TRUE"
+  },
+  {
+    "name": "irish",
+    "category": "alcohol",
+    "subcategory": "shots",
+    "description": "17% 30ml",
+    "price": "150",
+    "available": "TRUE"
+  },
+  {
+    "name": "red label",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "40% 50ml",
+    "price": "250",
+    "available": "TRUE"
+  },
+  {
+    "name": "black label",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "40% 50ml",
+    "price": "300",
+    "available": "TRUE"
+  },
+  {
+    "name": "double black label",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "40% 50ml",
+    "price": "500",
+    "available": "TRUE"
+  },
+  {
+    "name": "amarula",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "17% 50ml",
+    "price": "350",
+    "available": "TRUE"
+  },
+  {
+    "name": "kahlua",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "20% 50ml",
+    "price": "350",
+    "available": "TRUE"
+  },
+  {
+    "name": "malibu",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "20% 50ml",
+    "price": "350",
+    "available": "TRUE"
+  },
+  {
+    "name": "jagermeister",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "35% 40ml",
+    "price": "400",
+    "available": "TRUE"
+  },
+  {
+    "name": "fireball",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "33% 40ml",
+    "price": "350",
+    "available": "TRUE"
+  },
+  {
+    "name": "jose cuervo gold tequila",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "40% 50ml",
+    "price": "400",
+    "available": "TRUE"
+  },
+  {
+    "name": "gordon's",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "37% 50ml",
+    "price": "350",
+    "available": "TRUE"
+  },
+  {
+    "name": "jose cuervo gold tequila",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "40% 50ml",
+    "price": "400",
+    "available": "TRUE"
+  },
+  {
+    "name": "absolut vodka",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "40% 50ml",
+    "price": "320",
+    "available": "TRUE"
+  },
+  {
+    "name": "underberg",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "44% 20ml",
+    "price": "300",
+    "available": "TRUE"
+  },
+  {
+    "name": "russian standard",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "40% 50ml",
+    "price": "300",
+    "available": "TRUE"
+  },
+  {
+    "name": "chivas",
+    "category": "alcohol",
+    "subcategory": "Mini Bottles",
+    "description": "50% 40ml",
+    "price": "350",
+    "available": "TRUE"
+  },
+  {
+    "name": "duvin white wine",
+    "category": "alcohol",
+    "subcategory": "wine",
+    "description": "12% 180ml",
+    "price": "300",
+    "available": "TRUE"
+  },
+  {
+    "name": "duvin rose wine",
+    "category": "alcohol",
+    "subcategory": "wine",
+    "description": "12% 180ml",
+    "price": "300",
+    "available": "TRUE"
+  },
+  {
+    "name": "kounouz red wine",
+    "category": "alcohol",
+    "subcategory": "wine",
+    "description": "12% 180ml",
+    "price": "225",
+    "available": "TRUE"
+  },
+  {
+    "name": "al dayaa red wine",
+    "category": "alcohol",
+    "subcategory": "wine",
+    "description": "13% 750ml",
+    "price": "900",
+    "available": "TRUE"
+  },
+  {
+    "name": "bacardi espresso",
+    "category": "alcohol",
+    "subcategory": "rum",
+    "description": "12% 200ml",
+    "price": "700",
+    "available": "TRUE"
+  },
+  {
+    "name": "bacardi pineapple",
+    "category": "alcohol",
+    "subcategory": "rum",
+    "description": "12% 200ml",
+    "price": "700",
+    "available": "TRUE"
+  },
+  {
+    "name": "bicardi coconut",
+    "category": "alcohol",
+    "subcategory": "rum",
+    "description": "12% 200ml",
+    "price": "700",
+    "available": "TRUE"
+  },
+  {
+    "name": "bicardi orange",
+    "category": "alcohol",
+    "subcategory": "rum",
+    "description": "4% 250ml",
+    "price": "300",
+    "available": "TRUE"
+  },
+  {
+    "name": "red label",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 200ml",
+    "price": "550",
+    "available": "TRUE"
+  },
+  {
+    "name": "black label",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 200ml",
+    "price": "720",
+    "available": "TRUE"
+  },
+  {
+    "name": "chivas 18 gold signature",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 200ml",
+    "price": "900",
+    "available": "TRUE"
+  },
+  {
+    "name": "glenfiddich",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 700ml",
+    "price": "2970",
+    "available": "TRUE"
+  },
+  {
+    "name": "pogues",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 700ml irish single malt",
+    "price": "1600",
+    "available": "TRUE"
+  },
+  {
+    "name": "dimple",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "43% 750ml",
+    "price": "2700",
+    "available": "TRUE"
+  },
+  {
+    "name": "pogues",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 750ml irish triple distilled",
+    "price": "1350",
+    "available": "TRUE"
+  },
+  {
+    "name": "dewards 12",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 70ml",
+    "price": "1750",
+    "available": "TRUE"
+  },
+  {
+    "name": "chivas 12",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 1000ml",
+    "price": "2430",
+    "available": "TRUE"
+  },
+  {
+    "name": "chivas 12",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 700ml",
+    "price": "1980",
+    "available": "TRUE"
+  },
+  {
+    "name": "black label",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 750ml",
+    "price": "2250",
+    "available": "TRUE"
+  },
+  {
+    "name": "jack daniel's",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "45% 350ml single barrel",
+    "price": "1710",
+    "available": "TRUE"
+  },
+  {
+    "name": "ballantines",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 700ml",
+    "price": "1170",
+    "available": "TRUE"
+  },
+  {
+    "name": "double black label",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 750ml",
+    "price": "2700",
+    "available": "TRUE"
+  },
+  {
+    "name": "double black label",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 1000ml",
+    "price": "3600",
+    "available": "TRUE"
+  },
+  {
+    "name": "black label",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 1000ml",
+    "price": "2610",
+    "available": "TRUE"
+  },
+  {
+    "name": "haig",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 1000ml",
+    "price": "1260",
+    "available": "TRUE"
+  },
+  {
+    "name": "jameson",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 700ml",
+    "price": "1530",
+    "available": "TRUE"
+  },
+  {
+    "name": "gold label",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 750ml",
+    "price": "4050",
+    "available": "TRUE"
+  },
+  {
+    "name": "black & white",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 1750ml",
+    "price": "1710",
+    "available": "TRUE"
+  },
+  {
+    "name": "sangrias",
+    "category": "alcohol",
+    "subcategory": "wine",
+    "description": "7.8% 750ml",
+    "price": "900",
+    "available": "TRUE"
+  },
+  {
+    "name": "old fashioned",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "20% 500ml",
+    "price": "1800",
+    "available": "TRUE"
+  },
+  {
+    "name": "danzka",
+    "category": "alcohol",
+    "subcategory": "vodka",
+    "description": "40% 700ml",
+    "price": "1000",
+    "available": "TRUE"
+  },
+  {
+    "name": "russian standard",
+    "category": "alcohol",
+    "subcategory": "vodka",
+    "description": "40% 1750ml",
+    "price": "1700",
+    "available": "TRUE"
+  },
+  {
+    "name": "baileys",
+    "category": "alcohol",
+    "subcategory": "irish cream",
+    "description": "17% 700ml",
+    "price": "1450",
+    "available": "TRUE"
+  },
+  {
+    "name": "biala",
+    "category": "alcohol",
+    "subcategory": "vodka",
+    "description": "40% 700ml",
+    "price": "700",
+    "available": "TRUE"
+  },
+  {
+    "name": "hendrick's",
+    "category": "alcohol",
+    "subcategory": "gin",
+    "description": "40% 700ml",
+    "price": "2700",
+    "available": "TRUE"
+  },
+  {
+    "name": "pina colada",
+    "category": "alcohol",
+    "subcategory": "rum",
+    "description": "14% 700ml",
+    "price": "850",
+    "available": "TRUE"
+  },
+  {
+    "name": "martini",
+    "category": "alcohol",
+    "subcategory": "prosecco",
+    "description": "11% 750ml",
+    "price": "2260",
+    "available": "TRUE"
+  },
+  {
+    "name": "albeni cream",
+    "category": "alcohol",
+    "subcategory": "liquor",
+    "description": "17% 700ml",
+    "price": "630",
+    "available": "TRUE"
+  },
+  {
+    "name": "old par 12",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 750",
+    "price": "2700",
+    "available": "TRUE"
+  },
+  {
+    "name": "1800 silver",
+    "category": "alcohol",
+    "subcategory": "tequila",
+    "description": "40% 750ml",
+    "price": "2700",
+    "available": "TRUE"
+  },
+  {
+    "name": "grey goose",
+    "category": "alcohol",
+    "subcategory": "vodka",
+    "description": "40% 700ml",
+    "price": "2250",
+    "available": "TRUE"
+  },
+  {
+    "name": "smirnoff",
+    "category": "alcohol",
+    "subcategory": "vodka",
+    "description": "37% 700ml",
+    "price": "720",
+    "available": "TRUE"
+  },
+  {
+    "name": "jagermister spiced",
+    "category": "alcohol",
+    "subcategory": "liquor",
+    "description": "33% 700ml",
+    "price": "1400",
+    "available": "TRUE"
+  },
+  {
+    "name": "jagermister",
+    "category": "alcohol",
+    "subcategory": "liquor",
+    "description": "33% 710ml",
+    "price": "1260",
+    "available": "TRUE"
+  },
+  {
+    "name": "amaretto retro",
+    "category": "alcohol",
+    "subcategory": "liquor",
+    "description": "21% 700ml",
+    "price": "800",
+    "available": "TRUE"
+  },
+  {
+    "name": "fireball",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "33% 750ml",
+    "price": "1170",
+    "available": "TRUE"
+  },
+  {
+    "name": "haig",
+    "category": "alcohol",
+    "subcategory": "whiskey",
+    "description": "40% 700ml",
+    "price": "990",
+    "available": "TRUE"
+  },
+  {
+    "name": "bottega",
+    "category": "alcohol",
+    "subcategory": "prosecco",
+    "description": "11% 750ml",
+    "price": "900",
+    "available": "TRUE"
+  },
+  {
+    "name": "gordon's",
+    "category": "alcohol",
+    "subcategory": "gin",
+    "description": "37% 700ml",
+    "price": "900",
+    "available": "TRUE"
+  },
+  {
+    "name": "espresso",
+    "category": "hot beverages",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "nescaffe 3in1",
+    "category": "hot beverages",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "nescaffe",
+    "category": "hot beverages",
+    "subcategory": "",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "cappuccino",
+    "category": "hot beverages",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "tea",
+    "category": "hot beverages",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "hot chocolate",
+    "category": "hot beverages",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "xxl regular",
+    "category": "cold beverages",
+    "subcategory": "energy drink",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "xxl mango",
+    "category": "cold beverages",
+    "subcategory": "energy drink",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "xxl berry",
+    "category": "cold beverages",
+    "subcategory": "energy drink",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "landessa latte macchiato",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "landessa cappuccino",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "premium cppucino",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "premium vanilla",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "premium original",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "luna mocha",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "90",
+    "available": "TRUE"
+  },
+  {
+    "name": "luna original",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "90",
+    "available": "TRUE"
+  },
+  {
+    "name": "luna white mocha",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "90",
+    "available": "TRUE"
+  },
+  {
+    "name": "luna cappuccino",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "90",
+    "available": "TRUE"
+  },
+  {
+    "name": "luna spanish latte",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "90",
+    "available": "TRUE"
+  },
+  {
+    "name": "luna espresso",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "90",
+    "available": "TRUE"
+  },
+  {
+    "name": "dark blue",
+    "category": "cold beverages",
+    "subcategory": "energy drink",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "red bull",
+    "category": "cold beverages",
+    "subcategory": "energy drink",
+    "description": "",
+    "price": "180",
+    "available": "TRUE"
+  },
+  {
+    "name": "red bull sugar free",
+    "category": "cold beverages",
+    "subcategory": "energy drink",
+    "description": "",
+    "price": "180",
+    "available": "TRUE"
+  },
+  {
+    "name": "xtra orange and carrot",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "xtra mango",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "xtra lemonade",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "xtra pineappie",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "xtra tropical",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "maccaw banana stawberry",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "maccaw pineapple",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "landessa vanilia",
+    "category": "cold beverages",
+    "subcategory": "ice coffe",
+    "description": "",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "rani peach",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "rani mango",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "rani pineapple",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "original mixed fruit",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "original peach",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "original pineappple",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "original orange",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "original mango",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "original ornage &carrot",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "blend chocolate",
+    "category": "cold beverages",
+    "subcategory": "milk shake",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "blend strawberry",
+    "category": "cold beverages",
+    "subcategory": "milk shake",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "milkshake chocolate",
+    "category": "cold beverages",
+    "subcategory": "milk shake",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "milkchake strawberry",
+    "category": "cold beverages",
+    "subcategory": "milk shake",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "uno chocolate",
+    "category": "cold beverages",
+    "subcategory": "milk shake",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "uno strawberry",
+    "category": "cold beverages",
+    "subcategory": "milk shake",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "lipton lemon",
+    "category": "cold beverages",
+    "subcategory": "iced tea",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "lipton tropical",
+    "category": "cold beverages",
+    "subcategory": "iced tea",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "lipton mango tango",
+    "category": "cold beverages",
+    "subcategory": "iced tea",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "lipton peach",
+    "category": "cold beverages",
+    "subcategory": "iced tea",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "lipton red fruits",
+    "category": "cold beverages",
+    "subcategory": "iced tea",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "mogu mogu peach",
+    "category": "cold beverages",
+    "subcategory": "iced tea",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "san benedetto",
+    "category": "cold beverages",
+    "subcategory": "iced tea",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "red smoothie",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "green smoothie",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "yellow smoothie",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "200",
+    "available": "TRUE"
+  },
+  {
+    "name": "mr juicy pineapple",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "mr juicy mango",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "mr juicy straberry banana",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "mr juicy apple",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "mr juicy orange",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "maccaw apple",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "maccaw banana stawberry",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "maccaw pineapple",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "maccaw fruites",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "maccaw orange",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "maccaw pomegranate",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "maccaw mango",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "pacha passion",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "140",
+    "available": "TRUE"
+  },
+  {
+    "name": "pacha grape fruite",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "140",
+    "available": "TRUE"
+  },
+  {
+    "name": "pacha apple",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "140",
+    "available": "TRUE"
+  },
+  {
+    "name": "pacha mojito",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "140",
+    "available": "TRUE"
+  },
+  {
+    "name": "pacha  lemon",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "140",
+    "available": "TRUE"
+  },
+  {
+    "name": "pacha coconut",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "140",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim fruite citrus",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "110",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim fruite crnaberry",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "110",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim fruite mango",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "110",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim fruite pineapple",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "110",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim fruite apple",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "110",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim grape fruite",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim rose",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim lemon",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "rim apple",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "perrier ginger lime",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "perrier",
+    "category": "cold beverages",
+    "subcategory": "sparkling water",
+    "description": "",
+    "price": "150",
+    "available": "TRUE"
+  },
+  {
+    "name": "basil seeds mango",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "basil seeds berries",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "basil seeds strawberry",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "basil seeds cocktail",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "basil seeds mango",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "basil seeds lychee",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "basil seeds passion fruite",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "gatorade",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "h2oh lemon&lime",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "h2oh tangerine",
+    "category": "cold beverages",
+    "subcategory": "juice",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "mega vanilla",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "mega chocolate",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "mega hazelnut",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "halley",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "mars",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "lion",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "leo",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "twix",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "90",
+    "available": "TRUE"
+  },
+  {
+    "name": "choco prince",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "kitkat",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "twins chocolate",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "panino cigar wafer",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "milka choco wafer",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "biskrem",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "laviva dark chocolate",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "crunch chocolate",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "paita",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "biskrem cinnamon",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "albeni roll",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "kinder chocolate",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "go crazy milk",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "nouba",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "albeni tane tane",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "m&m chocolate",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "stars",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "mms peanut",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "pretzels knots zaatar",
+    "category": "batton sale",
+    "subcategory": "",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "pretzels honey mustard",
+    "category": "batton sale",
+    "subcategory": "",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "crax cheese",
+    "category": "batton sale",
+    "subcategory": "",
+    "description": "",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "crax herbs",
+    "category": "batton sale",
+    "subcategory": "",
+    "description": "",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "crax spicy",
+    "category": "batton sale",
+    "subcategory": "",
+    "description": "",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "ulker salted stick's",
+    "category": "batton sale",
+    "subcategory": "",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "unica",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "pringles original",
+    "category": "chips",
+    "subcategory": "",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "pringles cheese",
+    "category": "chips",
+    "subcategory": "",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "pringles ketchup",
+    "category": "chips",
+    "subcategory": "",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "pringles spicy",
+    "category": "chips",
+    "subcategory": "",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "pringles barbeque",
+    "category": "chips",
+    "subcategory": "",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "pringles paprika",
+    "category": "chips",
+    "subcategory": "",
+    "description": "",
+    "price": "100",
+    "available": "TRUE"
+  },
+  {
+    "name": "sunflower seeds",
+    "category": "al raiif",
+    "subcategory": "",
+    "description": "",
+    "price": "150",
+    "available": "TRUE"
+  },
+  {
+    "name": "kernels",
+    "category": "nuts & seeds",
+    "subcategory": "",
+    "description": "",
+    "price": "400",
+    "available": "TRUE"
+  },
+  {
+    "name": "extra mixed",
+    "category": "nuts & seeds",
+    "subcategory": "",
+    "description": "",
+    "price": "230",
+    "available": "TRUE"
+  },
+  {
+    "name": "super extra",
+    "category": "nuts & seeds",
+    "subcategory": "",
+    "description": "",
+    "price": "270",
+    "available": "TRUE"
+  },
+  {
+    "name": "super seeds",
+    "category": "nuts & seeds",
+    "subcategory": "",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "mixed kernels large",
+    "category": "nuts & seeds",
+    "subcategory": "",
+    "description": "",
+    "price": "350",
+    "available": "TRUE"
+  },
+  {
+    "name": "healthy mix",
+    "category": "nuts & seeds",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "mix nuts",
+    "category": "nuts & seeds",
+    "subcategory": "",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "salted nuts",
+    "category": "nuts & seeds",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "cashew",
+    "category": "nuts & seeds",
+    "subcategory": "",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "metro",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "galaxy",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "90",
+    "available": "TRUE"
+  },
+  {
+    "name": "snickers",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "leo milka",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "90",
+    "available": "TRUE"
+  },
+  {
+    "name": "oreo",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "rulockat",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "biskrem extra",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "120",
+    "available": "TRUE"
+  },
+  {
+    "name": "chocolate cake rolls",
+    "category": "cake",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "milk cake rolls",
+    "category": "cake",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "strawberry pie",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "brownie pie",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "apricot pie",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "raspberry pie",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "dates",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "strawberry croissant",
+    "category": "croissant",
+    "subcategory": "",
+    "description": "",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "chocolate croissant",
+    "category": "croissant",
+    "subcategory": "",
+    "description": "",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "coconut",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "brownie",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "45",
+    "available": "TRUE"
+  },
+  {
+    "name": "chocolate ball",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "20",
+    "available": "TRUE"
+  },
+  {
+    "name": "wafe up",
+    "category": "wafer",
+    "subcategory": "",
+    "description": "",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "loacker",
+    "category": "wafer",
+    "subcategory": "",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "cake",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "30",
+    "available": "TRUE"
+  },
+  {
+    "name": "mix max chocolate cake",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "raisin ckae",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "chocolate cake",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "marble cake",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "45",
+    "available": "TRUE"
+  },
+  {
+    "name": "strawberry stuffed cake",
+    "category": "cake",
+    "subcategory": "",
+    "description": "",
+    "price": "35",
+    "available": "TRUE"
+  },
+  {
+    "name": "chocolate stuffed cake",
+    "category": "cake",
+    "subcategory": "",
+    "description": "",
+    "price": "35",
+    "available": "TRUE"
+  },
+  {
+    "name": "blackberry stuffed cake",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "35",
+    "available": "TRUE"
+  },
+  {
+    "name": "apricot stuffed cake",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "35",
+    "available": "TRUE"
+  },
+  {
+    "name": "digestive",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "3 peaces",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "digestive",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "15 peaces",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "cookies",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "40",
+    "available": "TRUE"
+  },
+  {
+    "name": "biscolata wafer",
+    "category": "rimas",
+    "subcategory": "",
+    "description": "",
+    "price": "70",
+    "available": "TRUE"
+  },
+  {
+    "name": "chocolate sandwich",
+    "category": "croissant",
+    "subcategory": "",
+    "description": "sande",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "cheese pie",
+    "category": "croissant",
+    "subcategory": "",
+    "description": "sande",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "chocolate pie",
+    "category": "croissant",
+    "subcategory": "",
+    "description": "sande",
+    "price": "50",
+    "available": "TRUE"
+  },
+  {
+    "name": "cheese",
+    "category": "croissant",
+    "subcategory": "",
+    "description": "nova",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "chocolate",
+    "category": "croissant",
+    "subcategory": "",
+    "description": "nova",
+    "price": "60",
+    "available": "TRUE"
+  },
+  {
+    "name": "sables chocolate",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "halab",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "biscolata stix",
+    "category": "chocolate",
+    "subcategory": "",
+    "description": "",
+    "price": "80",
+    "available": "TRUE"
+  },
+  {
+    "name": "regular",
+    "category": "caake",
+    "subcategory": "",
+    "description": "",
+    "price": "250",
+    "available": "TRUE"
+  },
+  {
+    "name": "regular",
+    "category": "caake",
+    "subcategory": "",
+    "description": "mozarela & akawy",
+    "price": "300",
+    "available": "TRUE"
+  },
+  {
+    "name": "regular",
+    "category": "caake",
+    "subcategory": "",
+    "description": "with telyene",
+    "price": "350",
+    "available": "TRUE"
+  },
+  {
+    "name": "four cheese",
+    "category": "caake",
+    "subcategory": "",
+    "description": "",
+    "price": "400",
+    "available": "TRUE"
+  },
+  {
+    "name": "four cheese",
+    "category": "caake",
+    "subcategory": "",
+    "description": "with telyene",
+    "price": "450",
+    "available": "TRUE"
+  },
+  {
+    "name": "four cheese",
+    "category": "caake",
+    "subcategory": "",
+    "description": "with salami",
+    "price": "450",
+    "available": "TRUE"
+  }
+]
