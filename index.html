@@ -700,8 +700,9 @@ function setupScrollSpy() {
 // ── FETCH & INIT ──────────────────────────────────────────────────────────────
 async function loadMenu() {
     try {
-        const rows = await fetchJSONP(SHEET_URL);
-        console.log('RAW DATA:', JSON.stringify(rows.slice(0,2)));
+        const res = await fetch('menu.json');
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const rows = await res.json();
         const normalized = rows.map(row => {
             const obj = {};
             Object.keys(row).forEach(k => {
@@ -709,10 +710,8 @@ async function loadMenu() {
                 obj[nk] = String(row[k]).trim();
             });
             return obj;
-        });
-        const filtered = normalized.filter(r => r.name && r.name.trim());
-        if (filtered.length === 0) throw new Error('No items found. Keys: ' + Object.keys(normalized[0] || {}).join(', '));
-        ALL_DATA = groupData(filtered);
+        }).filter(r => r.name && r.name.trim());
+        ALL_DATA = groupData(normalized);
         buildMenu(ALL_DATA);
         document.getElementById('loading').style.display = 'none';
     } catch (e) {
@@ -721,29 +720,6 @@ async function loadMenu() {
         document.getElementById('error-msg').style.display = 'block';
         console.error(e);
     }
-}
-
-function fetchJSONP(url) {
-    return new Promise((resolve, reject) => {
-        const cbName = 'cb_' + Math.random().toString(36).slice(2);
-        const script = document.createElement('script');
-        const timeout = setTimeout(() => {
-            cleanup();
-            reject(new Error('Timeout - could not reach server'));
-        }, 10000);
-        function cleanup() {
-            clearTimeout(timeout);
-            delete window[cbName];
-            if (script.parentNode) script.parentNode.removeChild(script);
-        }
-        window[cbName] = function(data) {
-            cleanup();
-            resolve(data);
-        };
-        script.src = url + (url.includes('?') ? '&' : '?') + 'callback=' + cbName;
-        script.onerror = () => { cleanup(); reject(new Error('Script load failed')); };
-        document.head.appendChild(script);
-    });
 }
 
 loadMenu();
