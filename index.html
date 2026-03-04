@@ -420,7 +420,7 @@
             </div>
             <h1 class="logo">Coffee<span>Way</span></h1>
         </div>
-        
+        <span class="item-total-badge" id="total-badge">— items</span>
     </div>
 </header>
 
@@ -438,7 +438,7 @@
 
 <script>
 // ── CONFIG ──────────────────────────────────────────────────────────────────
-const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRoEVzA9P0RNVRNZZTOiYc0zMKfMautcCkkVePr1O9W6v2UFecKu37n2dZYQv__eGMk1hl-hk1hW-Qw/pub?gid=0&single=true&output=csv';
+const SHEET_URL = 'https://script.google.com/macros/s/AKfycbxsQpJbRubwJ6YWmbtE3JgqZGuiEoMzkj6vR1fSxWugsOM0A-KYXK4AHFmksqo9m9fv-w/exec';
 
 const CAT_META = {
     'hot beverages':  { label: 'Hot Beverages',         emoji: '☕' },
@@ -702,9 +702,17 @@ async function loadMenu() {
     try {
         const res = await fetch(SHEET_URL);
         if (!res.ok) throw new Error('fetch failed');
-        const text = await res.text();
-        const rows = parseCSV(text);
-        ALL_DATA = groupData(rows);
+        const rows = await res.json();
+        // Normalize keys: lowercase, trim, underscores
+        const normalized = rows.map(row => {
+            const obj = {};
+            Object.keys(row).forEach(k => {
+                const nk = k.toLowerCase().trim().replace(/\s+/g,'_');
+                obj[nk] = String(row[k]).trim();
+            });
+            return obj;
+        }).filter(r => r.name && r.name.trim());
+        ALL_DATA = groupData(normalized);
         buildMenu(ALL_DATA);
         document.getElementById('loading').style.display = 'none';
     } catch (e) {
