@@ -2409,15 +2409,15 @@
   },
   {
     "name": "regular",
-    "category": "caake",
+    "category": "caaket",
     "subcategory": "",
-    "description": "",
+    "description": "picon",
     "price": "250",
     "available": "TRUE"
   },
   {
     "name": "regular",
-    "category": "caake",
+    "category": "caaket",
     "subcategory": "",
     "description": "mozarela & akawy",
     "price": "300",
@@ -2425,33 +2425,41 @@
   },
   {
     "name": "regular",
-    "category": "caake",
+    "category": "caaket",
     "subcategory": "",
-    "description": "with telyene",
+    "description": "mozarela & akawy with telyene",
+    "price": "350",
+    "available": "TRUE"
+  },
+  {
+    "name": "regular",
+    "category": "caaket",
+    "subcategory": "",
+    "description": "mozarela & akawy with salami",
     "price": "350",
     "available": "TRUE"
   },
   {
     "name": "four cheese",
-    "category": "caake",
+    "category": "caaket",
     "subcategory": "",
-    "description": "",
+    "description": "akkawi, mozarella & cheader",
     "price": "400",
     "available": "TRUE"
   },
   {
     "name": "four cheese",
-    "category": "caake",
+    "category": "caaket",
     "subcategory": "",
-    "description": "with telyene",
+    "description": "akkawi, mozarella & cheader with telyene",
     "price": "450",
     "available": "TRUE"
   },
   {
     "name": "four cheese",
-    "category": "caake",
+    "category": "caaket",
     "subcategory": "",
-    "description": "with salami",
+    "description": "akkawi, mozarella & cheader with salami",
     "price": "450",
     "available": "TRUE"
   }
